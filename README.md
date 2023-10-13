@@ -1,7 +1,7 @@
 <h1 align="center">Hi all, I'm Andrea</h1>
 <h3 align="center">Passionate scholar of Analytical Philosophy and Computer Science</h3>
 
-- 🔭 I’m currently studying Computer Science at [42Roma Luiss](https://42roma.it/?utm_source=google_ads&utm_medium=search&utm_campaign=MKT-42RM23_42_Roma_Luiss_2023&gclid=EAIaIQobChMIrIXbt67zgQMVNRB7Bx13bwkFEAAYASAAEgJNlvD_BwE)
+- 🔭 I am studying Computer Science at [42Roma Luiss](https://42roma.it/?utm_source=google_ads&utm_medium=search&utm_campaign=MKT-42RM23_42_Roma_Luiss_2023&gclid=EAIaIQobChMIrIXbt67zgQMVNRB7Bx13bwkFEAAYASAAEgJNlvD_BwE)
 
 - 🌱 I’m currently learning **C, C++**
 
