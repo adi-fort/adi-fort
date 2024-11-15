@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Andrea</h1>
-<h3 align="center">Passionate scholar of Analytical Philosophy and Computer Science</h3>
+<h3 align="center">Passionate learner of Analytical Philosophy and Computer Science</h3>
 
 - 🔭 I am studying Computer Science at [42Roma Luiss](https://42roma.it/?utm_source=google_ads&utm_medium=search&utm_campaign=MKT-42RM23_42_Roma_Luiss_2023&gclid=EAIaIQobChMIrIXbt67zgQMVNRB7Bx13bwkFEAAYASAAEgJNlvD_BwE)
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’ve graduate in Logic and Philosophy of Science at [University of Florence](https://www.lmlogica.unifi.it/vp-140-insegnamenti-e-piano-di-studi.html)
 
